@@ -1,0 +1,28 @@
+copy url
+folder cmd prompt
+    -git clone url
+    -code .
+(Terminal npm init -y)
+add files do changes
+Terminal  
+   -git add .
+   -git commit -m "msg"
+   -git push
+
+   Branch 
+   copy url from github
+   take new folder 
+   git clone url
+   code .
+   cd 
+   git checkout -b branch name
+   make changes and save
+   git add .
+   git commit -m "msg"
+   git push
+   paste and enter
+   accept pull request in main  .
+   
+
+   
+
